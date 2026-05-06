@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Ahmad Alexander
 
-![Train](https://raw.githubusercontent.com/Ahmad-Alexander/Ahmad-Alexander/main/train.svg)
+![Train](https://raw.githubusercontent.com/Ahmad-Alexander/Ahmad-Alexander/main/train_readme_animation.svg)
 <!--
 **Ahmad-Alexander/Ahmad-Alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
