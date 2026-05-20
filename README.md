@@ -1,18 +1,15 @@
-## Hi there 👋
-My name is Ahmad Alexander
+# Hi, I'm Ahmad Alexander 👋
 
-![Train](https://i.pinimg.com/originals/bd/e8/31/bde8311914aec4d7812de732d236a1b8.gif)
-<!--
-**Ahmad-Alexander/Ahmad-Alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Quantitative Economics at Pace University. I'm interested in the intersection of urban economics and transportation policy.
 
-Here are some ideas to get you started:
+## 🎯 Interests
+- Public Transportation & Bus Priority
+- Micromobility
+- Urban Economics
+- Housing & Zoning Reform — missing middle housing, mixed-use development, parking minimums, lot size requirements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [🚍 Bus Bunching Analysis](https://github.com/Ahmad-Alexander/BusBunching-GTFS) | Cross-agency bus reliability analysis across WMATA, MBTA, and MTA | Python, R, GTFS-RT |
