@@ -12,4 +12,4 @@ MS in Quantitative Economics at Pace University. I'm interested in the intersect
 
 | Project | Description | Tools |
 |---|---|---|
-| [🚍 Bus Bunching Analysis](https://github.com/Ahmad-Alexander/BusBunching_GTFS)](https://github.com/Ahmad-Alexander/BusBunching_GTFS) | Cross-agency bus reliability analysis across WMATA, MBTA, and MTA | Python, R, GTFS-RT |
+| [🚍 Bus Bunching Analysis](https://github.com/Ahmad-Alexander/BusBunching_GTFS)] | Cross-agency bus reliability analysis across WMATA, MBTA, and MTA | Python, R, GTFS-RT |
